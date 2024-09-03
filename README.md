@@ -19,10 +19,10 @@ DSS stands for my personal Data Science School, where I explore and apply data s
 2. **Check Out the Notebooks**: Open Jupyter Notebooks to view and interact with the code.  
 3. **Share Your Thoughts**: Open issues or submit pull requests with suggestions or improvements.
 
-Let’s learn and grow together! 🌟
+Let’s learn and grow together! 
 
 ---
  
-*Created and maintained by Kofoworola Egbinola* ✨
+*Created and maintained by Kofoworola Egbinola* 
 
 
