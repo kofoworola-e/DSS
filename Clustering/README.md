@@ -44,7 +44,7 @@ Here are some valuable resources that have guided my learning process:
 
 ## What’s Next?
 
-I’ll be diving deeper into clustering algorithms, experimenting with different techniques, and applying them to various datasets. This repository will be updated with my findings, project-specific details, and new resources as I continue my exploration of clustering.
+I’ll be diving deeper into clustering algorithms, experimenting with different techniques, and applying them to various datasets. This repository will be updated with my findings, project-specific details, and new resources as I progress.
 
 Feel free to explore the resources, review my assignments, and follow along with my learning journey!
 
