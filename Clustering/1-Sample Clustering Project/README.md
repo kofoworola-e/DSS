@@ -1,6 +1,6 @@
 # Sample Clustering Project 📊
 
-This project is based on a clustering assignment task that demonstrates the application of these techniques. You can review the details and solution of the assignment here: [Clustering Challenge Notebook](https://github.com/Kofoworola13/ml-basics/blob/master/challenges/04%20-%20Clustering%20Challenge.ipynb). It demonstrates the general steps involved in clustering using a sample dataset. The focus is on applying clustering techniques and interpreting results, rather than performing an in-depth analysis.
+This project is based on a clustering assignment task that demonstrates the application of clustering techniques. You can review the details and solution of the assignment here: [Clustering Challenge Notebook](https://github.com/Kofoworola13/ml-basics/blob/master/challenges/04%20-%20Clustering%20Challenge.ipynb). It demonstrates the general steps involved in clustering using a sample dataset. The focus is on applying clustering techniques and interpreting results, rather than performing an in-depth analysis.
 
 ## **Project Components**
 
