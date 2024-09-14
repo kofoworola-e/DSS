@@ -26,7 +26,7 @@ In this folder, you'll find projects and notebooks related to time series analys
 
 - [**Time Series Visualization**](https://github.com/Kofoworola13/DSS/blob/main/Time%20Series/Visualizing_Time_Series_Datasets.ipynb): This notebook introduces time series data analysis, covering data loading, visualization, and identifying key characteristics such as trends, seasonality, etc. It lays the groundwork for deeper analysis and modeling in the future.
 
-- [**Predicting BTC prices using ARIMA Modeling**](): This notebook focuses on applying ARIMA modeling to time series data. It covers initial steps like data preparation and model building, laying the groundwork for further exploration and improvement in time series analysis.
+- [**Forecasting BTC prices using ARIMA Modeling**](): This notebook focuses on applying ARIMA modeling to time series data. It covers initial steps like data preparation and model building, laying the groundwork for further exploration and improvement in time series analysis.
 
 
 
