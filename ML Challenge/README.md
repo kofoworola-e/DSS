@@ -27,7 +27,7 @@ I share weekly summary posts highlighting:
 - Challenges faced  
 - Lessons learned  
 
-For weekly updates, follow my journey on [LinkedIn](www.linkedin.com/in/kofoworola-egbinola-m).  
+For weekly updates, follow my journey on [LinkedIn](https://www.linkedin.com/in/kofoworola-egbinola-m). 
 
 ---
 
@@ -42,10 +42,10 @@ This challenge is a commitment to:
 ## 🤝 Join the Journey  
 If you’re also working through **Hands-On Machine Learning**, feel free to:  
 - **Star this repo** for updates 🌟  
-- Connect with me on [LinkedIn](www.linkedin.com/in/kofoworola-egbinola-m) to exchange ideas.  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/kofoworola-egbinola-m) to exchange ideas.  
 
 Let’s grow and learn together!  
 
 ---  
 
-**Kofoworola Egbinola**  
+**Kofoworola Egbinola 💕**  
